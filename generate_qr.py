@@ -1,7 +1,7 @@
 import qrcode
 
 # URL de tu GitHub Pages
-url = "https://totiML.github.io/mi-regalo/"
+url = "https://totiml.github.io/mi-regalo/"
 
 # Generar el código QR
 qr = qrcode.QRCode(
